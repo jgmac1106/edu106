@@ -1,6 +1,8 @@
-# Instructions for Codex
+# Agent instructions for the optional IndieWeb starter
 
-This repository is an EDU106 teaching project for students with no prior coding experience.
+EDU106's primary student publishing workflow is **ChatGPT Sites**. Do not present GitHub, GitHub Pages, repository forking, or Codex as required steps for current students. Direct students to the current syllabus and class-site publishing guidance; see [README.md](README.md) for this repository's role.
+
+This repository preserves the optional / legacy static IndieWeb starter for students with no prior coding experience. The instructions below apply only when maintaining this repository or helping someone who has chosen to use this starter.
 
 ## Protect the learning design
 
